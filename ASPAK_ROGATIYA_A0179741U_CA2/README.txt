@@ -19,3 +19,20 @@ Steps to run AspakRogatiya_A0179741U_CA2.ipynb file:
 Please Note: I haven't included the MNIST datasets into the submitted folder. You have to get the 
 MNIST data from http://yann.lecun.com/exdb/mnist and extract the training/test data/labels to 
 MNIST_Data folder.
+
+-----------------------------------------------------
+Folder Content
+
+ASPAK_ROGATIYA_A0179741U_CA2
+│   AspakRogatiya_A0179741U_CA2.ipynb
+│   ASPAK_ROGATIYA_A0179741U_Report.pdf
+│   README.txt
+│
+├───img
+│       Bias_results.png
+│       Eigenvector_results.png
+│       nus-logo.jpg
+│       PolyOrder_results.png
+│
+└───MNIST_Data
+
